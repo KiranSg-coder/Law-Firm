@@ -1,9 +1,14 @@
 import './App.css';
+import Logo from "./Components/Logo/Logo";
+import Navbar from './Components/Navbar/Navbar';
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello</h1>
+    <div >
+      {/* <h1>Hi</h1> */}
+      {/* <Logo/> */}
+      <Navbar/>
     </div>
   );
 }
