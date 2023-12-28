@@ -1,0 +1,62 @@
+
+.intro{
+    display: flex;
+    padding: 100px 100px;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    width: 100%;
+}
+
+.introtitle {
+    width: 50%;
+    padding: 0px 50px ;
+}
+
+.introtitle > h1 {
+    font-size: 54px;
+    font-weight: 600;
+}
+
+
+.introtext {
+    padding: 0px 50px;
+    width: 50%;
+}
+
+hr {
+    height: 206px;
+    opacity: 30%;
+}
+
+.introtext > h1 {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.introtext > p {
+    font-size: 18px;
+    font-weight: 500;
+    opacity: 30%;
+}
+
+
+.cardHeader {
+    text-align: center;
+    font-size: 54px;
+    font-weight: 600;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+.container {
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+
+.card {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}

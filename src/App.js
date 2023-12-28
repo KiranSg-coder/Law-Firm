@@ -2,6 +2,7 @@ import './App.css';
 import Logo from "./Components/Logo/Logo";
 import Navbar from './Components/Navbar/Navbar';
 import Header from './Components/Header/Header';
+import Intro from './Components/Intro/Intro';
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <div >
       {/* <Navbar/> */}
       <Header/>
+      <Intro/>
     </div>
   );
 }
