@@ -1,0 +1,83 @@
+.wrapper {
+    padding: 60px 10%;
+  }
+  
+  .head {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    padding: 40px 0px;
+  }
+  
+  .flexContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+  }
+  
+  .item1 {
+    width: 650px;
+    height: 240px;
+    border-radius: 14px;
+    background-image: url("../../Assets/areaPractice/image1.png");
+    text-align: center;
+    padding-top: 180px;
+    font-size: 23px;
+    font-weight: 600;
+  }
+  
+  .item2 {
+    width: 250px;
+    height: 240px;
+    border-radius: 14px;
+    background-image: url("../../Assets/areaPractice/image2.png");
+    text-align: center;
+    padding-top: 180px;
+    font-size: 23px;
+    font-weight: 600;
+  }
+  
+  .item3 {
+    width: 250px;
+    height: 240px;
+    border-radius: 14px;
+    background-image: url("../../Assets/areaPractice/image3.png");
+    text-align: center;
+    padding-top: 180px;
+    font-size: 23px;
+    font-weight: 600;
+  }
+  
+  .item4 {
+    width: 650px;
+    height: 240px;
+    border-radius: 14px;
+    background-image: url("../../Assets/areaPractice/image4.png");
+    text-align: center;
+    padding-top: 180px;
+    font-size: 23px;
+    font-weight: 600;
+  }
+  
+  .item5 {
+    width: 650px;
+    height: 240px;
+    border-radius: 14px;
+    background-image: url("../../Assets/areaPractice/image5.png");
+    text-align: center;
+    padding-top: 180px;
+    font-size: 23px;
+    font-weight: 600;
+  }
+  
+  .item6 {
+    width: 258px;
+    height: 242px;
+    border-radius: 14px;
+    background-image: url("../../Assets/areaPractice/image6.png");
+    text-align: center;
+    padding-top: 180px;
+    font-size: 23px;
+    font-weight: 600;
+  }
